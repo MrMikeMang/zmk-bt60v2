@@ -1,7 +1,7 @@
 {
   "keyboard": "bt60",
   "keymap": "default",
-  "layout": "TSANGAN",
+  "layout": "LAYOUT",
   "layer_names": [
     "base",
     "raise"
